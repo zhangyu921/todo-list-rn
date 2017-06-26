@@ -1,3 +1,3 @@
 # todo-list-rn
 
-RN 练手项目
+RN + Redux 练手项目
